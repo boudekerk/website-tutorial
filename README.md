@@ -52,3 +52,4 @@ default. To control this behavior, log into `http://localhost:8080/cms/console`
 and press the "Enable/Disable Auto Export" button at the top right. To set this
 as the default for your project edit the file
 `./repository-data/application/src/main/resources/hcm-config/configuration/modules/autoexport-module.yaml`
+Thu 30 Aug 17:47:39 CEST 2018
